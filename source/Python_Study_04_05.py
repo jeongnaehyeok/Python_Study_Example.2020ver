@@ -1,4 +1,4 @@
-num_10 = 17
+num_10 = 47
 num_2 = bin(num_10) # 2진법
 num_8 = oct(num_10) # 8진법
 num_16 = hex(num_10) # 16진
