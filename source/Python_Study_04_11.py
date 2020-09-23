@@ -1,0 +1,6 @@
+print("오늘의 날씨 {}°C".format(10))
+print("π는 {0}이다.".format(3.141592))
+print("2의 제곱근은 {0:0.2f}이다.".format(1.414))
+print("나는 오늘 {apple}를 먹었다.".format(apple="사과"))
+print("10 x {{ 20 / ( 40 / 10) }}의 답은 {}이다.".format(50))
+print("{0}반은 {1}를 우승하였다.".format(8, "줄다리"))
